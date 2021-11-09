@@ -1,0 +1,15 @@
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/AdaptedBubbleSort.deps.json
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/AdaptedBubbleSort.runtimeconfig.json
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/AdaptedBubbleSort.runtimeconfig.dev.json
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/AdaptedBubbleSort.dll
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/ref/AdaptedBubbleSort.dll
+/Users/brayden/Development/C#/AdaptedBubbleSort/bin/Debug/net5.0/AdaptedBubbleSort.pdb
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.csproj.AssemblyReference.cache
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.AssemblyInfoInputs.cache
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.AssemblyInfo.cs
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.csproj.CoreCompileInputs.cache
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.dll
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/ref/AdaptedBubbleSort.dll
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.pdb
+/Users/brayden/Development/C#/AdaptedBubbleSort/obj/Debug/net5.0/AdaptedBubbleSort.genruntimeconfig.cache
